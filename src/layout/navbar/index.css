@@ -1,0 +1,18 @@
+nav .active {
+  color: rgb(240, 85, 14);
+  background-color: yellowgreen;
+}
+nav {
+  background: #000;
+  height: 5vh;
+  justify-content: center;
+  text-align: center;
+  display: flex;
+}
+.nav {
+  padding-right: 10px;
+  text-decoration: none;
+}
+.nav:hover {
+  background: rgb(50, 19, 33);
+}
